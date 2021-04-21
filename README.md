@@ -89,7 +89,7 @@ Python 3.8+. We describe the current status of the compatibility mode
 
 ### Contributing
 
-I you're thinking about contributing something to this repository, you will need
+If you're thinking about contributing something to this repository, you will need
 to sign the [Oracle Contributor
 Agreement](http://www.graalvm.org/community/contributors/) for us to able to
 merge your work. Please also take note of our [code of
